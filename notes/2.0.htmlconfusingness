@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="2.0.css">
+ 
+
+
+
+</head>
+<body>
+  
+       <h1 class="titleHeader">Home page </h1>
+  
+   <div class="navigation-wrapper-wrapper">
+
+  <div class="contact-hours-wrapper">
+      555 555 5555
+      10 Am - Midnight
+  </div>
+
+
+  <div class="shutUp-wrapper">
+  <div class="shutUp">
+  
+  <div class="navigation-wrapper">
+     <a href="index.html">Home</a>
+  </div>
+
+  <div class="navigation-wrapper">
+     <a href="contact.html">contact</a>
+  </div>
+    
+  <div class="navigation-wrapper">  
+     <a href="../pages/demo.html">demo</a>
+  </div>
+
+  <div class="navigation-wrapper">
+     <a href="https://devcamp.com/" target="blank">devcamp</a>
+  </div>
+
+  </div>
+  
+ 
+ 
+</div>
+
+
+</div>
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,79 @@
+<head> things that u wanna put but users cant see
+</head> is the ending of what u put in a tag=<head>
+<meta> what u want the code to do-utf8 english coding
+http- contacts internet explorer
+<title> fjfj <title> the title for the document/website
+div like a file to put things in and to edit a sertain part with css-choose things u cant edit put into div
+divs can change the line ur writing on
+a . is how u contact css 
+# is how u contact id
+id and class r almost the same
+id for 1 item- a class is for alot of items to change-id can automatically be overiten
+nothing but color means the text color
+display: flex; is  how you move words around easier
+text-underline: underline; ---underlines it
+style=color    h1 { color:blue;} same ish thing
+<h1 link rel="stylesheets" href=djald </h1>
+in pages everything needs ../ in it
+<a href="https://devcamp.com/" target="_blank">devcamp</a> new page opener
+in html put . a or p and tab make a div class
+font-size size of the words
+.sumthin p or a or h1 to specify the thing u want in a div
+flex - grid  flex makes the screen flexible and grid isnt and grid is like boxes /lines in the page .
+br ends the line
+scss 
+padding adds on margin moves things
+text align lines the text from up and down
+box shadow  is a shadow on the page first one horizontle legnth and second is vertical legnth
+and the 3rth one is the blur and the 4th one is how big it all is
+justify conent horizontoly
+position:absolute; forst  position: relative; if u wanna put words on a picture
+<span> puts the words in a line
+position: relative;
+position: absolute; if u want to put words on a page
+css float means u want the words to float around the picture
+css border puts a color border around the picture
+ letter-spacing: 1px;
+    line-height: 30px; is how u seperate and fix words on the page
+    css object-fit: cover; makes the image fit with the words in the box u put
+  < ul>  {  <li>  } goes inside of ul --to make things like a list with a dot 
+  <ol>  <li> puts numbers to organzize is
+   <a href="#guide" class="ddk">
+<h2>Apex Legends Bloodhound Guide for Abilities.</h2>
+</a>
+ makes the word take you to the word
+ .anchor-link ::before {
+    content: "im before-";
+}is how u put words on things in css
+.anchor-link ::after{
+    font-family: "font awesome 5 free";
+    content: "\f0c1"; -is the icon-
+    font-weight: 900;
+} 
+is how you put a icon on class names
+   font-weight: 900; how bold the words r
+   <input type="text" id="wut u want the words to say before u click it" placeholder="djkd">
+   is how u make a place where people can type there 
+
+ <input type="text" id="fullname" placeholder="Your name">
+                        <label for="fullname">Your name</label>
+
+<button type="submit">
+   send
+ </button> is how u make the email send u sumwhere
+
+  <textarea name="message" id="message"  placeholder="message"></textarea>
+<label for="email">message</label>
+is how u make a texting area
+when making forms use 2rem -em
+inherit makes it so u can put things on the page wherever u want without moving other things
+visibility: hidden; makes words hdden
+:focus kinda like hover
+@media ( max-width:615px) makes it phone view
+!important makes teh css important is good to use in @media
+ 
+ul>li*3 is how u make 3 ils inside a ul
+ <div class="dos-donts-heading red"> the space is why - is how u make 2 classes in one
+flex wrap makes it so when the words get to the end of the page itll start a new line
+grid-column: 2;----grid-row: 1; will put the selected grid in 2cnd to the right
+ width: 66vw; is like percent but goes to the right and left

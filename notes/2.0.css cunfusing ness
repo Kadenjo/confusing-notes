@@ -1,0 +1,45 @@
+.navigation-wrapper a {
+
+    height:190px;
+background-color: #11122b
+color blue;
+
+}
+
+/* .navigation-wrapper {
+    color: rgb(27, 29, 28);
+}
+
+.navigation-wrapper a {
+color: cadetblue;
+} */
+
+.shutUp-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.shutUp {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 300px;
+    
+}
+
+.shutUp a {
+    color: blue;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.shutUp a:hover {
+    color: purple;
+    text-decoration: underline;
+}
+
+.titleHeader {
+    text-align: center;
+    font-size: 100px;
+}

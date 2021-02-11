@@ -1,0 +1,19 @@
+.form label{
+    color: rgb(161, 159, 6);
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-left: 2rem;
+    margin-top: 0.7rem;
+    display: block;
+    transition:all 0.3s;
+    visibility: hidden;
+    opacity: 0;
+
+   
+}
+.form input:focus + label {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(1rem);
+
+} is how i made it slowly drop the invisible words and drop a lil further

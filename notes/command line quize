@@ -1,0 +1,23 @@
+COMMAND LINE Concept Quiz
+The _____________ ________ is a powerful tool that establishes a direct connection with your system.: command line
+
+When working in the terminal the command “ls” will _____________.: list out all the content of the directory
+
+If you want to clear the screen, the command is ____________.: clear
+
+To create a new directory use the command __________.: Mkdir
+
+To change a file name at the terminal use the “______ “ command.:
+Correct answer: mv
+
+The syntax for moving back one directory is “_______”: 
+Correct answer: cd . .
+
+The command for deleting a directory is “_______”: 
+Correct answer: rm -rf
+
+It is important to be careful with the “echo” command because it will ________ your existing content.: replace
+
+The command for copy at the terminal is “ ____”: cp
+
+CSS ________ allows you to specify elements on the page and then apply style rules to the elements that you list.: selectors

@@ -1,0 +1,27 @@
+ scss
+
+ @mixin a name ( sum code   $flex: false, $hdhd:false )//dont need to put false{
+@if $flex !=false{
+   flex:$flex;
+}
+@if
+ }
+ put code ontop of where u put the name to overide sum things in the mixin u use
+ now call that name in a place and ittl have those codes
+ .container {
+    @include name of mixin /how u call a mixin/
+ }
+
+ @include name ($ flex: 1,$justify-content:space-between); is an overide
+ &:hover {
+    hfhf
+ } is how u make a hover in scss
+
+
+ .toot {
+     @include notification {
+         background
+         flex
+         sum stuff / is how u kinda use css in scss
+     }
+ }

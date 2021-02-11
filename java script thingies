@@ -1,0 +1,215 @@
+// boolean
+var truthy =true;
+var not=false;
+console.log(truthy);
+// null
+var nully=null;
+// undifined
+var notDefined;
+console.log(notDefined);
+// number
+var age =12;
+console.log(age);
+// string
+var name="bla";
+var nameTwo="bluebla";
+console.log(name);
+// symbol
+var hh=Symbol("foo");
+console.log(hh);
+
+
+
+var user= {name: "poop",
+          age:12,
+          }
+console.log(user.age)
+ is an aray u can ^ choose wut one in the aray container u wunt
+
+
+ var user= {name: "poop",
+          age:12,
+           grades:{
+             math:69,
+             science:69,
+             laguagearts:69
+           }
+          }
+console.log(user.grades.math)
+
+IS HOW U PIC SPECIFICATLY IN THE DIV/VAR 
+
+
+Number(true);
+1
+Number(false);
+0   does what it does
+
+
+var age=12;
+var age2=12;
+if (age == age2){
+  console.log("they are equal")
+} 
+age is 23
+if (age <=24){
+  console.log("not old enough")
+} it will say not old enough
+
+if (age >=25){  // or older
+ console.log("old enough to rent a car")
+
+if (age2 <= 10)
+  {console.log("u can eat child stuff");}
+
+  var age=30;
+if (age <10)
+  {console.log ("shshsh");
+  }else {
+    console.log ("shshsh");
+  }       is if age does match the first one demands itll do the else
+
+  var age=11;
+if (age <10)                                              
+  {console.log ("shshsh");                        
+   console.log ("u wont die")     
+  }else if (age > 10 && age < 30){                           
+    console.log ("idk");{                             
+      console.log ("ull die");                    
+    }                                           
+  }  same but lots of things    
+
+
+
+  var age=30;
+if (age <10)
+  {console.log ("shshsh");
+   console.log ("u wont die")
+  }else if (age > 10 && age < 25){
+    console.log ("idk");{
+      console.log ("ull die");
+    }
+    
+  }else if (age >=25){
+      console.log("shsh");}   more stuff   
+
+
+      var kid =(15);
+var kid{15};
+if (age>15) 
+{console.log ("old enough to get a permit");
+console.log ("can't get a license");}       challenge        
+https://bottega.devcamp.com/digital-literacy/guide/how-to-build-switch-statement-javascript-check-data-types confusing
+
+var dat="hi";
+switch (typeof dat);{
+  case "string":
+  console.log("stuff");
+      break;
+  case "bolean":
+      console.log("dhdhdh");
+    break:
+    default:
+    console.log("nutin");}     confusing stuff if its a string itll say stuff if bolean itll say dhdhdh
+
+    <div className={hasPermission ? "active" : "disabled"}>
+</div>  is if the user has hasPermission itll say active if he doesnt itll say disabled
+ let answer = age > 25 ? "can rent a car" : "cant rent a car"; works in html;;;if the second one isnt able to do itll go to the next one ; fist ones true second one is if its false
+have to right it like dis if ur in html
+
+
+
+var user ={
+  email: "baala@icloud.com",
+  fullname: "stuff"
+}
+
+function dashboardGreeting(){
+
+
+  console.log ("hi ".concat(user.fullname));
+}
+dashboardGreeting();
+console.log(user.fullname);
+signing in
+
+var userObj = {
+  email: "pala@icloud.com",
+  fullName: "mutt"
+}
+
+function dash (){
+  console.log (" welcome," .concat(userObj.fullName))
+}
+dash();
+
+is how u make it say stuff when they sign in 
+
+                    ^^^^^^^^^
+https://bottega.devcamp.com/digital-literacy/guide/how-variable-scope-works-javascript 
+https://bottega.devcamp.com/digital-literacy/guide/introduction-javascript-closures   confusing
+function sum (meh, mehg){
+   return (meh + mehg);
+}              ^ means theyll be together
+
+
+var guide={
+  title: "guide",
+  content: "content",
+  visibleToUser: function(viewingUserRole) {
+    if (viewingUserRole=== "paid") {
+      return true;} else{
+        return false;
+      }
+    },
+  renderContent: function(userRole) {
+    if (this.visibleToUser(userRole))
+  }
+ }             
+
+ myArray = [ "hi",  1 , ["e", "d", "ddd"]]
+
+(3) ["hi", 1, Array(3)]0: "hi"1: 12: Array(3)0: "e"1: "d"2: "ddd"length: 3__proto__: Array(0)length: 3__proto__: Array(0)
+myArray[2][1]
+        
+"d"   is how u pic things in a more confusing Array
+
+var players=[
+    "shshs",
+    "saaa",
+      "ddddd",
+      "ssaa"
+];
+for (var i = 0; i < players.length; i++){
+  console.log(players[i]);
+}
+
+
+
+-loop-  it keeps looping and trying to get to the players length and once it gets there it stops
+players.forEach(function(element){
+  console.log(element);
+})    does the same thing the top one does
+
+var user = {
+    age:3,
+    name:"shsh",          if its a var in dis order u need to use key
+    city:"poop"
+  
+}; 
+for (var key in user) {
+  console.log(key + " => " + user.key);  user[key] is how it shld be
+}    
+
+var i = 0;
+while (i < players.length) {
+  console.log(players[i]);
+  i++;
+} is how u make a game ish that keeps proccessing up and up
+
+
+https://bottega.devcamp.com/digital-literacy/guide/how-to-pull-images-instagram-javascript
+if u ever need to copy alot of pictures froma site
+
+
+

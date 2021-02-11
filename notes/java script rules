@@ -1,0 +1,59 @@
+var hello ="hi";     var a variable u can change  is ezzy and simple   can ezyly be overitten
+var is kinda like a div and the word u put after ver is the name and then wut u wnt var to say
+let  a variable u cant change  cant use let twice (on the same thing?) cant rlly be overiten
+var hh=Symbol symbol can only be used once and makes-- var hh=Symbol--
+when puting alot ofthings in a aray u put , after everything 
+console.log is how u pic out something u put so that it wld work
+typeof and then sumthing ittl tell u what it iz on the console webpage
+"gfg" is a string 12; is just how u put numberes  and true; is boolean
+{name: "blabla"}; is a {object} u put things in and then u can choose stuff outa it with console.log
+var agetwo="33";
+Number(agetwo); makes it into a number cuzz it wus a string u can also use + agetwo 
+Number("20") + Number (44);  Number("20") + (44);
+64 is the only way to plus numberes in java
+length show how much words the sentence has
+charAt (4) calls the 4th word in the sentence
+concat adds to the sentence youve made
+u can search wut the sentence has by putting hfhfh.endswith ("rat") and itll tell u
+repeat repeats....
+match lets u know if things match
+replce replaces things
+lastIndexOf   indexOf does sumtin
++ and - r normal / is divide and * is times  14%2 = 3 it keeps taking away
+u put ++ in a var name itll plus one to that var
+++ before the vars name and it pluses it imidiatley
+same thing with -- takes away tho
+var ss="20";
+var ssd="+ss"; would make ss a  number cuzz its naturally a letter
+https://bottega.devcamp.com/digital-literacy/guide/working-with-string-functions-part-3 one i missed
+sum +=grade2; say sum is 2 and grade2 is 30 doing this will make sum 32  (u can do it w a * / % as well)
+/*
+Parenthesis
+Exponents
+Multiplication 5 / 5 * 4
+Division   division Multiplication reads from left to right
+Addition
+Subtraction
+*/ the way it reads it 
+"33" makes the numbers a string
+! means oposite
+? means true or return
+function blabla makes blabla a function now kinda like a var but more easibly changeable
+function dd () {console.log  ("hi");} now if i call dd itll say that kinda like  a var  dd(); to call the function i jus made
+return is like after ur stuff does stuff u use return to do something after ur stuff is done doing stuff
+<div classname={hasPermission ? "active" : "disabled"}> </div> to right in html 
+let is like a var
+|| means or
+ shs.sumtin(); makes it pic it specificaly not show how it picked it in an array
+this -- sum functions need it to each ur other function --to be more specific
+var ddd=new Array(3);  is like a storage  var ss=[1,2,3]; does the same thing  dd[3]  "djsh"  is how u get something outa the Array
+arr.pop(); is how u pic the last thin in a array and take it away
+arr.splice(1);  is how u take one outa the middle /how u choose a sertain one
+afaf.splice(1,2); will savee 0 cuzz u went over 0 and take away 2 after 0
+sst.shift(); takes off the first one in the array
+shsh.unshift("sshsh") puts that at the start of the array
+array.push( "Bagels"); is how u put something at the very end
+[key] is how u use key  definition is thingies  194
+I++ makes the i keep adding up s++same
+while is used to make a proccesor that keeps going through a var
+automation tasks  
